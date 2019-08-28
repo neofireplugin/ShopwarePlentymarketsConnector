@@ -15,5 +15,6 @@
 	"email"             	: "info@neofire.de",
 	"phone"               	: "+49 0571 40 41 733",
 	"webhookUrl"		: "https://www.neofire.de",
-	"license"		: "Proprietär"
+	"license"		: "Proprietär",
+	"serviceProvider" 	: "ShopwareConnector\\Providers\\SupportServiceProvider"
 }
