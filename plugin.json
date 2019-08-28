@@ -15,10 +15,6 @@
   "phone"             : "+49 0571 40 41 733",
   "keywords"          : ["plentymarkets", "plugins", "shopware", "schnittstelle", "connector"],
   "type"              : "tool",
-
-  "directDownloadLinks" : {"Windows":"download-link", "MacOs":"download-link", "Linux":"download-link"},
-  "forwardLink"         : "https://store.shopware.com/neofi31926321214/plentymarkets-schnittstelle-zu-shopware.html",
-
   "require"             : [],
   "namespace"           : "ShopwareConnector",
   "serviceProvider"     : "ShopwareConnector",
