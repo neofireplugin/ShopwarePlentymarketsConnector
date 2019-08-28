@@ -1,6 +1,6 @@
 <?php // strict
 
-namespace ShopwareConnector\Providers;
+namespace ExternalTool\Providers;
 
 use Plenty\Plugin\Events\Dispatcher;
 use Plenty\Plugin\ServiceProvider;
@@ -10,7 +10,7 @@ use Plenty\Plugin\Templates\Twig;
  * Class ShopwareConnectorServiceProvider
  * @package ShopwareConnector\Providers
  */
-class ShopwareConnectorServiceProvider extends ServiceProvider
+class ExternalToolServiceProvider extends ServiceProvider
 {
     /**
      * Register the core functions
