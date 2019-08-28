@@ -2,7 +2,7 @@
   "version"           : "1.0.0",
   "name"              : "ShopwareConnector",
   "marketplaceName"   : {"de": "plentymarkets Schnittstelle zu Shopware","en": "plentymarkets interface to Shopware"},
-  "license"           : "AGPL-3.0",
+  "license"           : "Prorietär",
   "isExternalTool"    : true,
   "pluginIcon"        : "icon_plugin_xs.png",
   "price"             : 1188.81,
