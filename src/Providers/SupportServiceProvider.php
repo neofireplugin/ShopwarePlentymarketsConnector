@@ -1,5 +1,5 @@
 <?php
-namespace ShopwareConnector\Providers;
+namespace ShopwarePlentymarketsConnector\Providers;
 use Plenty\Plugin\ServiceProvider;
 /**
  * Class HelloWorldServiceProvider
