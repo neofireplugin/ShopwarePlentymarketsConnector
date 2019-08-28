@@ -1,5 +1,5 @@
 {
-	"name"                	: "ShopwareConnector",
+	"name"                	: "ShopwarePlentymarketsConnector",
   	"marketplaceName"     	: {"de": "plentymarkets Schnittstelle zu Shopware","en": "plentymarkets interface to Shopware"},
  	"namespace"           	: "ShopwareConnector",
 	"type"			: "service",
@@ -16,5 +16,5 @@
 	"phone"               	: "+49 0571 40 41 733",
 	"webhookUrl"		: "https://www.neofire.de",
 	"license"		: "Proprietär",
-	"serviceProvider" 	: "ShopwareConnector\\Providers\\SupportServiceProvider"
+	"serviceProvider" 	: "ShopwarePlentymarketsConnector\\Providers\\SupportServiceProvider"
 }
