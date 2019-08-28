@@ -14,5 +14,6 @@
 	"authorIcon"        	: "icon_author_xs.png",
 	"email"             	: "info@neofire.de",
 	"phone"               	: "+49 0571 40 41 733",
-	"webhookUrl"		: "https://www.neofire.de"
+	"webhookUrl"		: "https://www.neofire.de",
+	"license"		: "Proprietär"
 }
