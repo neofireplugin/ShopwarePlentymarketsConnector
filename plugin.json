@@ -14,7 +14,7 @@
   "email"             : "info@neofire.de",
   "phone"             : "+49 0571 40 41 733",
   "keywords"          : ["plentymarkets", "plugins", "shopware", "schnittstelle", "connector"],
-  "type"              : "tool",
+  "type"              : "service",
   "require"             : [],
   "namespace"           : "ShopwareConnector",
   "serviceProvider"     : "ShopwareConnector",
