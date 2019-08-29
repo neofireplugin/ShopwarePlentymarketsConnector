@@ -18,5 +18,4 @@ Laufzeit: 12 Monate, Kosten: Plugin-Kaufpreis / 2,5<br>
 Laufzeit: 24 Monate, Kosten: Plugin-Kaufpreis / 1,5<br><br>
 
 Die Kosten beziehen sich dabei auf den aktuellen Verkaufspreis und können sich in Zukunft verändern.
-
-<br><br><h2>Impressum vom Plugin Hersteller:</h2><a target="_blank" href="https://www.neofire.de/impressum">https://www.neofire.de/impressum</a><br><p></p>
+<h2>Impressum vom Plugin Hersteller:</h2><a target="_blank" href="https://www.neofire.de/impressum">https://www.neofire.de/impressum</a><br><p></p>
