@@ -1,6 +1,6 @@
 {
 	"name"                	: "ShopwarePlentymarketsConnector",
-  	"marketplaceName"     	: {"de": "plentymarkets Schnittstelle zu Shopware","en": "plentymarkets interface to Shopware"},
+  	"marketplaceName"     	: {"de": "Shopware Connector","en": "Shopware Connector"},
  	"namespace"           	: "ShopwarePlentymarketsConnector",
 	"type"			: "service",
 	"version"           	: "1.0.2",
