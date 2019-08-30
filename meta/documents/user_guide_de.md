@@ -3,6 +3,8 @@
 <br><h2>Kaufversion (Subscriptions)</h2>Nutze das Plugin, solange Du möchtest<br>
 Mit dem Kauf dieses Plugins kannst Du es zeitlich unbegrenzt in Deinem Shop einsetzen.<br><br>
 
+Beim dem Kauf handelt es sich um eine Shopware Plugin Lizenz für die plentymarkets Schnittstelle zu Shopware im Shopware Store. Es gelten ergänzend zu den plentyMarketplace AGB die <a href="https://www.shopware.com/de/gtc" target="_blank">AGB von Shopware</a>.
+
 <b>Inklusive Hersteller-Support und Updates (Subscription*)</b><br>
 
 
@@ -19,6 +21,6 @@ Laufzeit: 24 Monate, Kosten: Plugin-Kaufpreis / 1,5<br><br>
 
 Die Kosten beziehen sich dabei auf den aktuellen Verkaufspreis und können sich in Zukunft verändern.
 
-Beim Kauf der Shopware Plugin Lizenz, gelten ergänzend zu den plentyMarketplace AGB die <a href="https://www.shopware.com/de/gtc" target="_blank">AGB von Shopware</a>.
+
 
 <h2>Impressum vom Plugin Hersteller:</h2><a target="_blank" href="https://www.neofire.de/impressum">https://www.neofire.de/impressum</a><br><p></p>
