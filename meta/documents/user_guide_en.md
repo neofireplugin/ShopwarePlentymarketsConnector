@@ -3,7 +3,10 @@
 
 <h2>Purchase Version (Subscriptions)</h2>
 Use the plugin as long as you want<br>
-With the purchase of this plugin you can use it indefinitely in your shop.<br><br>
+With the purchase of this plugin you can use it indefinitely in your shop.<br>
+
+The purchase is a Shopware plugin license for the plentymarkets interface to Shopware in the Shopware Store. In addition to the plentyMarketplace terms and conditions apply
+ <a href="https://www.shopware.com/de/gtc" target="_blank">Conditions of Shopware</a>.<br>
 
 Including manufacturer support and updates (subscription *)<br><br>
 
@@ -20,8 +23,6 @@ Duration: 6 months, costs: plugin purchase price / 4<br>
 Running time: 12 months, costs: plugin purchase price / 2.5<br>
 Duration: 24 months, costs: plugin purchase price / 1.5<br><br>
 
-
-When purchasing the Shopware Plugin license, in addition to the plentyMarketplace terms and conditions apply <a href="https://www.shopware.com/de/gtc" target="_blank">Conditions from Shopware</a>.
 
 <br><br><h2>Imprint of the plugin manufacturer:
 </h2><a target="_blank" href="https://www.neofire.de/impressum" >https://www.neofire.de/impressum</a><br><p></p>
