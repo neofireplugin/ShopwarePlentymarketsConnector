@@ -8,6 +8,9 @@ With the purchase of this plugin you can use it indefinitely in your shop.<br><b
 The purchase is a Shopware plugin license for the plentymarkets interface to Shopware in the Shopware Store. In addition to the plentyMarketplace terms and conditions apply
  <a href="https://www.shopware.com/de/gtc" target="_blank">Conditions of Shopware</a>.<br>
 
+<br><h2>Video</h2>
+<iframe width="100%" src="https://www.youtube.com/watch?v=hBfd9n_nuXc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 Including manufacturer support and updates (subscription *)<br><br>
 
 You will receive free support directly from the plugin manufacturer for this extension. In addition, you are from the time of purchase on for the next 12 months, all updates free of charge. At the end of the 12 months you can optionally renew the subscription through your account **. Of course, you can also continue to use the plugin without renewing the subscription to the full extent.<br><br>
