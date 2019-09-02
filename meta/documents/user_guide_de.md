@@ -6,7 +6,7 @@ Mit dem Kauf dieses Plugins kannst Du es zeitlich unbegrenzt in Deinem Shop eins
 Beim dem Kauf handelt es sich um eine Shopware Plugin Lizenz für die plentymarkets Schnittstelle zu Shopware im Shopware Store. Es gelten ergänzend zu den plentyMarketplace AGB die <a href="https://www.shopware.com/de/gtc" target="_blank">AGB von Shopware</a>.<br>
 
 <br><h2>Video</h2>
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=hBfd9n_nuXc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" src="https://www.youtube.com/watch?v=hBfd9n_nuXc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <b>Inklusive Hersteller-Support und Updates (Subscription*)</b><br>
 
