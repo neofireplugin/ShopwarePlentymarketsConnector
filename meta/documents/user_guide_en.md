@@ -2,7 +2,7 @@
 <iframe width="100%" src="https://www.youtube.com/watch?v=hBfd9n_nuXc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br><br><h2>Details<b>:</b></h2>The data is created or updated with the Shopware API via plentymarkets' RestApi.<p><br></p><h2>Important NOTE!</h2><p>When you start our plugin, catalogs and products are created directly, all manufacturers and units are overwritten. If you are not sure how to update your existing shop, please contact us in advance.</p>
 
 
-<h2>Purchase Version (Subscriptions)</h2>
+<br><h2>Purchase Version (Subscriptions)</h2>
 Use the plugin as long as you want<br>
 With the purchase of this plugin you can use it indefinitely in your shop.<br><br>
 
