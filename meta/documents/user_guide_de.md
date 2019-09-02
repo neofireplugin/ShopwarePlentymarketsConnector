@@ -22,4 +22,4 @@ Die Kosten beziehen sich dabei auf den aktuellen Verkaufspreis und können sich 
 
 
 
-<h2>Impressum vom Plugin Hersteller:</h2><a target="_blank" href="https://www.neofire.de/impressum">https://www.neofire.de/impressum</a><br><p></p>
+<br><h2>Impressum vom Plugin Hersteller:</h2><a target="_blank" href="https://www.neofire.de/impressum">https://www.neofire.de/impressum</a><br><p></p>
